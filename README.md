@@ -4,8 +4,25 @@ To juniors, these are SoC mods, kindly recommended by seniors, which you'll **le
 To seniors, drop me a pull request if you'd like to contribute! </br>
 Details taken from SoC <a href = https://www.comp.nus.edu.sg/cugresource/soc-sched/> website</a>. </br>
 
-|Module Code| Module Name| Professor| Comments|
-|CS4231| Parallel and Distributed Algorithms| YU Haifeng| |
-|CS5223| Distributed Systems| YU Haifeng| |
+|Module Code| Module Name| Professor|
+|---|---|---|
+|CS1101S| Programming Methodology| HENZ, Martin|
+|CS3216| Software Product Engineering for Digital Markets| LEONG Wing Lup, Ben|
+|CS3217| Software Engineering on Modern Application Platforms| LEONG Wai Kay|
+|CS3236| Introduction to Information Theory| SCARLETT, Jonathan|
+|CS3244| Machine Learning| KAN Min Yen|
+|CS3245| Information Retrieval| ZHAO Jin|
+|CS4212| Compiler Design| WONG Weng Fai|
+|CS4231| Parallel and Distributed Algorithms| YU Haifeng|
+|CS4232| Theory of Computation| JAIN, Sanjay|
+|CS4268| Quantum Computing| JAIN, Rahul|
+|CS5223| Distributed Systems| YU Haifeng|
+|CS5234| Combinatorial and Graph Algorithms| GILBERT, Seth Lewis|
+|CS5330| Randomized Algorithms| GILBERT, Seth Lewis|
+|MA4270| Data Modelling and Computation| Jonathan SCARLETT
+|ST2131| Probability| SUN Rongfeng|
+
+
+
 
 
