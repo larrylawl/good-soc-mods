@@ -16,7 +16,6 @@ Details taken from <a href = https://www.comp.nus.edu.sg/cugresource/soc-sched/>
 |CS4212| Compiler Design| WONG Weng Fai|
 |CS4231| Parallel and Distributed Algorithms| YU Haifeng|
 |CS4232| Theory of Computation| JAIN, Sanjay|
-|CS4268| Quantum Computing| JAIN, Rahul|
 |CS5223| Distributed Systems| YU Haifeng|
 |CS5234| Combinatorial and Graph Algorithms| GILBERT, Seth Lewis|
 |CS5330| Randomized Algorithms| GILBERT, Seth Lewis|
