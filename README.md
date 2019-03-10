@@ -1,7 +1,8 @@
 # GoodSoCMods
 
 To juniors, these are SoC mods, kindly recommended by seniors, which you'll **learn**. </br>
-To seniors, drop me a pull request if you'd like to contribute! </br>
+To seniors, open a pull request if you'd like to contribute! </br>
+Any feedback welcomed! </br>
 Details taken from <a href = https://www.comp.nus.edu.sg/cugresource/soc-sched/>SoC</a> and <a href= "http://ww1.math.nus.edu.sg/modules.aspx?f=modules#scrolltop"> FoS </a> </br>
 
 |Module Code| Module Name| Professor|
@@ -21,8 +22,3 @@ Details taken from <a href = https://www.comp.nus.edu.sg/cugresource/soc-sched/>
 |CS5330| Randomized Algorithms| GILBERT, Seth Lewis|
 |MA4270| Data Modelling and Computation| Jonathan SCARLETT
 |ST2131| Probability| SUN Rongfeng|
-
-
-
-
-
