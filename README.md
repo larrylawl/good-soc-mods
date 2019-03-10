@@ -2,7 +2,7 @@
 
 To juniors, these are SoC mods, kindly recommended by seniors, which you'll **learn**. </br>
 To seniors, drop me a pull request if you'd like to contribute! </br>
-Details taken from SoC <a href = https://www.comp.nus.edu.sg/cugresource/soc-sched/> website</a>. </br>
+Details taken from <a href = https://www.comp.nus.edu.sg/cugresource/soc-sched/>SoC</a> and <a href= "http://ww1.math.nus.edu.sg/modules.aspx?f=modules#scrolltop"> FoS </a> </br>
 
 |Module Code| Module Name| Professor|
 |---|---|---|
